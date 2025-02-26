@@ -1,5 +1,5 @@
 import React from 'react';
-import { ChevronRight, MapPin, Star, Calendar, Palmtree as PalmTree, Umbrella, Fish, Users } from 'lucide-react';
+import { ChevronRight, MapPin, Star, Calendar, Palmtree as PalmTree, Umbrella, Fish, Users, Phone, Mail } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 export default function Home() {
@@ -76,7 +76,7 @@ export default function Home() {
             </div>
             <div className="grid grid-cols-2 gap-4">
               <img 
-                src="https://images.unsplash.com/photo-1596465228670-16366b2eebc5?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+                src="https://accessagric.com/wp-content/uploads/2022/04/Ghana-fishermen-with-long-014.webp"
                 alt="Traditional Fishing Boats"
                 className="rounded-lg shadow-lg"
               />
@@ -90,8 +90,123 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Things to Do Preview */}
+      {/* Hotels & Resorts Section */}
       <div className="py-20 bg-emerald-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">Hotels & Resorts</h2>
+            <div className="h-1 w-20 bg-yellow-400 mx-auto mb-6"></div>
+            <p className="text-xl text-gray-600">Luxurious stays along Prampram's beautiful coastline</p>
+          </div>
+
+          <div className="grid md:grid-cols-3 gap-8">
+            <div className="bg-white rounded-xl shadow-lg overflow-hidden group">
+              <div className="relative">
+                <img 
+                  src="https://images.trvl-media.com/lodging/38000000/37900000/37890900/37890803/3adb25f7.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+                  alt="Prampram Beach Resort"
+                  className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+                <div className="absolute top-4 right-4 bg-yellow-400 text-white px-3 py-1 rounded-full text-sm font-semibold">
+                  4.5 ★
+                </div>
+              </div>
+              <div className="p-6">
+                <h3 className="text-xl font-bold mb-2">Accruase Paradise</h3>
+                <div className="flex items-center text-gray-600 mb-2">
+                  <MapPin className="w-4 h-4 mr-2" />
+                  <span>Paradise Avenue, Prampram</span>
+                </div>
+                <p className="text-gray-600 mb-4">
+                  No matter where we originate from, we cherish our tradition.
+                </p>
+                <div className="flex justify-between items-center">
+                  <span className="text-emerald-600 font-semibold">From GH₵ 927/night</span>
+                  <a 
+                    href="https://accruase.com/"
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    className="bg-emerald-600 text-white px-4 py-2 rounded-lg hover:bg-emerald-700 transition-colors"
+                  >
+                    Book Now
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="bg-white rounded-xl shadow-lg overflow-hidden group">
+              <div className="relative">
+                <img 
+                  src="https://ocean-green-beach-resort-icon-house-prampram.booked.net/data/Photos/OriginalPhoto/11872/1187215/1187215726/Ocean-Green-Beach-Resort-Icon-House-Prampram-Exterior.JPEG"
+                  alt="Ocean Green Beach and resort"
+                  className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+                <div className="absolute top-4 right-4 bg-yellow-400 text-white px-3 py-1 rounded-full text-sm font-semibold">
+                  4.3 ★
+                </div>
+              </div>
+              <div className="p-6">
+                <h3 className="text-xl font-bold mb-2">Ocean Green Beach and resort</h3>
+                <div className="flex items-center text-gray-600 mb-2">
+                  <MapPin className="w-4 h-4 mr-2" />
+                  <span>OceanGreen Beach, Prampram</span>
+                </div>
+                <p className="text-gray-600 mb-4">
+                  Modern resort with ocean views, spa services, and conference facilities.
+                </p>
+                <div className="flex justify-between items-center">
+                  <span className="text-emerald-600 font-semibold">From GH₵ 1,024/night</span>
+                  <a 
+                    href="https://www.oceangreenbeachvillas.com/"
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    className="bg-emerald-600 text-white px-4 py-2 rounded-lg hover:bg-emerald-700 transition-colors"
+                  >
+                    Book Now
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="bg-white rounded-xl shadow-lg overflow-hidden group">
+              <div className="relative">
+                <img 
+                  src="https://images.trvl-media.com/lodging/37000000/37000000/36996300/36996241/42e6c1bd.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+                  alt="La Tua Villas Limited"
+                  className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+                <div className="absolute top-4 right-4 bg-yellow-400 text-white px-3 py-1 rounded-full text-sm font-semibold">
+                  4.4 ★
+                </div>
+              </div>
+              <div className="p-6">
+                <h3 className="text-xl font-bold mb-2">La Tua Villas Limited</h3>
+                <div className="flex items-center text-gray-600 mb-2">
+                  <MapPin className="w-4 h-4 mr-2" />
+                  <span>La Tua Pardie kope, Prampram</span>
+                </div>
+                <p className="text-gray-600 mb-4">
+                  Best place for a perfect holiday experience with memories to cherish.
+                </p>
+                <div className="flex justify-between items-center">
+                  <span className="text-emerald-600 font-semibold">From GH₵ 600/night</span>
+                  <a 
+                    href="https://www.latuavillas.com/"
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    className="bg-emerald-600 text-white px-4 py-2 rounded-lg hover:bg-emerald-700 transition-colors"
+                  >
+                    Book Now
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Things to Do Preview */}
+      <div className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">Things to Do</h2>
@@ -103,7 +218,7 @@ export default function Home() {
             <div className="group relative overflow-hidden rounded-2xl bg-white shadow-lg">
               <div className="aspect-w-16 aspect-h-9 relative">
                 <img 
-                  src="https://images.unsplash.com/photo-1596465228670-16366b2eebc5?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+                  src="https://accessagric.com/wp-content/uploads/2022/04/Ghana-fishermen-with-long-014.webp"
                   alt="Fishing Tours"
                   className="w-full h-64 object-cover transform group-hover:scale-110 transition duration-500"
                 />
@@ -122,7 +237,7 @@ export default function Home() {
             <div className="group relative overflow-hidden rounded-2xl bg-white shadow-lg">
               <div className="aspect-w-16 aspect-h-9 relative">
                 <img 
-                  src="https://images.unsplash.com/photo-1551698618-1dfe5d97d256?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+                  src="https://www.easytrackghana.com/images/photos2/fishing-boats-2.jpg"
                   alt="Water Sports"
                   className="w-full h-64 object-cover transform group-hover:scale-110 transition duration-500"
                 />
@@ -141,7 +256,7 @@ export default function Home() {
             <div className="group relative overflow-hidden rounded-2xl bg-white shadow-lg">
               <div className="aspect-w-16 aspect-h-9 relative">
                 <img 
-                  src="https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+                  src="https://www.myjoyonline.com/wp-content/uploads/2023/07/Prampram-Traditional-Council-637x424.jpeg"
                   alt="Cultural Tours"
                   className="w-full h-64 object-cover transform group-hover:scale-110 transition duration-500"
                 />
