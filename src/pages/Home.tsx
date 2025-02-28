@@ -68,7 +68,7 @@ export default function Home() {
                 Prampram, also known as Gbugbla, is a historic coastal town in the Greater Accra Region of Ghana. As the district capital of Ningo-Prampram, it stands as a testament to Ghana's rich cultural heritage and maritime history.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                ...The town's history dates back several centuries, with the indigenous Prampram people being part of the Ga-Dangme ethnic group. The community has traditionally been known for its fishing industry, which remains an important part of local life today.
+                ..The town's history dates back several centuries, with the indigenous Prampram people being part of the Ga-Dangme ethnic group. The community has traditionally been known for its fishing industry, which remains an important part of local life today.
               </p>
               <p className="text-lg text-gray-600">
                 Today, while maintaining its traditional charm, Prampram is evolving into a modern coastal destination, attracting visitors and investors from around the world.
