@@ -400,12 +400,12 @@ export default function Home() {
             >
               <div className="flex items-center mb-4">
                 <img 
-                  src="https://randomuser.me/api/portraits/women/32.jpg" 
+                  src="https://images.unsplash.com/photo-1570158268183-d296b2892211?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Testimonial" 
                   className="w-12 h-12 rounded-full mr-4"
                 />
                 <div>
-                  <h4 className="font-bold">Sarah Johnson</h4>
+                  <h4 className="font-bold">Jake Johnson</h4>
                   <p className="text-gray-600 text-sm">United Kingdom</p>
                 </div>
               </div>
@@ -425,7 +425,7 @@ export default function Home() {
             >
               <div className="flex items-center mb-4">
                 <img 
-                  src="https://randomuser.me/api/portraits/men/45.jpg" 
+                  src="https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Testimonial" 
                   className="w-12 h-12 rounded-full mr-4"
                 />
@@ -450,12 +450,12 @@ export default function Home() {
             >
               <div className="flex items-center mb-4">
                 <img 
-                  src="https://randomuser.me/api/portraits/women/68.jpg" 
+                  src="https://images.unsplash.com/photo-1518882570151-157128e78fa1?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Testimonial" 
                   className="w-12 h-12 rounded-full mr-4"
                 />
                 <div>
-                  <h4 className="font-bold">Lisa Chen</h4>
+                  <h4 className="font-bold">Elijah Kumi</h4>
                   <p className="text-gray-600 text-sm">United States</p>
                 </div>
               </div>
