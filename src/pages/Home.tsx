@@ -1,5 +1,4 @@
-import React from 'react';
-import { ChevronRight, MapPin, Star, Calendar, Palmtree as PalmTree, Umbrella, Fish, Users, Phone, Mail } from 'lucide-react';
+import { ChevronRight, MapPin, Star, Palmtree as PalmTree, Umbrella, Fish, Users } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import AnimatedSection from '../components/AnimatedSection';
@@ -474,3 +473,8 @@ export default function Home() {
     </div>
   );
 }
+
+
+
+
+
