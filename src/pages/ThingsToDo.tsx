@@ -1,5 +1,4 @@
-import React from 'react';
-import { Compass, MapPin, Star } from 'lucide-react';
+import { MapPin, Star } from 'lucide-react';
 
 export default function ThingsToDo() {
   return (

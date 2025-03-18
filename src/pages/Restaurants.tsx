@@ -1,5 +1,4 @@
-import React from 'react';
-import { Utensils, MapPin, Clock, Phone, Star } from 'lucide-react';
+import { MapPin, Clock, Phone, Star } from 'lucide-react';
 
 export default function Restaurants() {
   return (

@@ -1,5 +1,4 @@
-import React from 'react';
-import { Home, MapPin, Phone, Mail } from 'lucide-react';
+import { MapPin } from 'lucide-react';
 
 export default function RealEstate() {
   return (
