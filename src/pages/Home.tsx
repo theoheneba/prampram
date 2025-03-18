@@ -10,7 +10,7 @@ export default function Home() {
       <SEO 
         title="Prampram - Discover Amazing Culture and Beaches in Ghana"
         description="Experience the beauty of Prampram, Ghana - pristine beaches, rich culture, and modern comfort. Plan your visit to this coastal paradise."
-        keywords="Prampram, Ghana beaches, Ghana tourism, Prampram hotels, Prampram culture, Ghana coastal town"
+        keywords="Prampram, Ghana beaches, Ghana tourism, Prampram hotels, Prampram culture, Ghana coastal town, Fort Venon"
       />
       
       {/* Hero Section */}
