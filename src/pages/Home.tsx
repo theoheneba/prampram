@@ -1,7 +1,7 @@
 import { ChevronRight, MapPin, Star, Palmtree as PalmTree, Umbrella, Fish, Users } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import AnimatedSection from '../components/AnimatedSection';
+import AnimatedSection from "../components/AnimatedSection.tsx";
 import SEO from '../components/SEO';
 
 export default function Home() {
