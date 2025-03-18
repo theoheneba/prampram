@@ -20,7 +20,7 @@ export default function RealEstate() {
               className="w-full h-48 object-cover"
             />
             <div className="p-6">
-              <h2 className="text-xl font-bold mb-4">Beachfront Villa</h2>
+              <h2 className="text-xl font-bold mb-4">Solé Lagoon View Estate, Prampram</h2>
               <p className="text-gray-600 mb-4">
                 Luxurious 4-bedroom villa with private beach access and panoramic ocean views.
               </p>

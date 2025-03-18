@@ -264,7 +264,7 @@ export default function Home() {
               >
                 <div className="relative">
                   <img 
-                    src="https://images.trvl-media.com/lodging/37000000/37000000/36996300/36996241/42e6c1bd.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+                    src="https://ahotoguesthouseghana.com/storage/ahoto/room/featured-images/featured_image_64920e89c77b7.jpg"
                     alt="La Tua Villas Limited in Prampram"
                     className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
                   />
@@ -273,18 +273,18 @@ export default function Home() {
                   </div>
                 </div>
                 <div className="p-6">
-                  <h3 className="text-xl font-bold mb-2">La Tua Villas Limited</h3>
+                  <h3 className="text-xl font-bold mb-2">Ahoto Guest House</h3>
                   <div className="flex items-center text-gray-600 mb-2">
                     <MapPin className="w-4 h-4 mr-2" />
-                    <span>La Tua Pardie kope, Prampram</span>
+                    <span>Ahoto, Prampram</span>
                   </div>
                   <p className="text-gray-600 mb-4">
                     Best place for a perfect holiday experience with memories to cherish.
                   </p>
                   <div className="flex justify-between items-center">
-                    <span className="text-emerald-600 font-semibold">From GH₵ 600/night</span>
+                    <span className="text-emerald-600 font-semibold">From GH₵ 300/night</span>
                     <a 
-                      href="https://www.latuavillas.com/"
+                      href="https://ahotoguesthouseghana.com/"
                       target="_blank" 
                       rel="noopener noreferrer" 
                       className="bg-emerald-600 text-white px-4 py-2 rounded-lg hover:bg-emerald-700 transition-colors"

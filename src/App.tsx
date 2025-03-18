@@ -31,7 +31,6 @@ function App() {
                 <NavLink to="/">Home</NavLink>
                 <NavLink to="/events">Events</NavLink>
                 <NavLink to="/things-to-do">Things to Do</NavLink>
-                <NavLink to="/real-estate">Real Estate</NavLink>
                 <NavLink to="/restaurants">Restaurants</NavLink>
                 <NavLink to="/news">News</NavLink>
               </div>

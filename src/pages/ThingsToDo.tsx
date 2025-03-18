@@ -15,12 +15,12 @@ export default function ThingsToDo() {
         <div className="grid md:grid-cols-3 gap-8">
           <div className="bg-white rounded-lg shadow-lg overflow-hidden">
             <img 
-              src="https://images.unsplash.com/photo-1584732200355-486c00295ec9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+              src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/377826121.jpg?k=9490f000051a38914f7eb68c1459fbb177fe0903dde0570d722cf784a8e374df&o=&hp=1"
               alt="Beach Activities"
               className="w-full h-48 object-cover"
             />
             <div className="p-6">
-              <h2 className="text-xl font-bold mb-4">Beach Activities</h2>
+              <h2 className="text-xl font-bold mb-4">Prampram Beach</h2>
               <p className="text-gray-600 mb-4">
                 Enjoy swimming, sunbathing, and water sports at our pristine beaches. Perfect for families and adventure seekers.
               </p>
@@ -40,18 +40,18 @@ export default function ThingsToDo() {
 
           <div className="bg-white rounded-lg shadow-lg overflow-hidden">
             <img 
-              src="https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-              alt="Fishing Village Tours"
+              src="https://visitghana.com/wp-content/uploads/2019/09/Jerry-Johnson-Ancestral-Wall-580x350.jpg"
+              alt="African Ancestral Wall"
               className="w-full h-48 object-cover"
             />
             <div className="p-6">
-              <h2 className="text-xl font-bold mb-4">Fishing Village Tours</h2>
+              <h2 className="text-xl font-bold mb-4">African Ancestral Wall</h2>
               <p className="text-gray-600 mb-4">
-                Experience the traditional fishing culture and witness the daily life of local fishermen.
+                The African Ancestral Wall is an open-air wall gallery of portraits of heroes and heroines who fought for the emancipation of Africa.
               </p>
               <div className="flex items-center text-gray-600 mb-4">
                 <MapPin className="w-4 h-4 mr-2" />
-                <span>Prampram Fishing Harbor</span>
+                <span>Carboo Kope, Prampram</span>
               </div>
               <div className="flex items-center text-yellow-400">
                 <Star className="w-4 h-4 fill-current" />
@@ -65,18 +65,18 @@ export default function ThingsToDo() {
 
           <div className="bg-white rounded-lg shadow-lg overflow-hidden">
             <img 
-              src="https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+              src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/21/8a/07/keta-fort-prinzenstein.jpg?w=900&h=500&s=1"
               alt="Cultural Tours"
               className="w-full h-48 object-cover"
             />
             <div className="p-6">
-              <h2 className="text-xl font-bold mb-4">Cultural Tours</h2>
+              <h2 className="text-xl font-bold mb-4">Fort Venon</h2>
               <p className="text-gray-600 mb-4">
-                Learn about Prampram's rich history and traditions through guided cultural tours.
+                Fort Vernon was built in 1742, out of some of the cheapest materials – rough stones and swish. It was abandoned approximately in 1816, whence it fell into ruins.
               </p>
               <div className="flex items-center text-gray-600 mb-4">
                 <MapPin className="w-4 h-4 mr-2" />
-                <span>Town Center</span>
+                <span>Fort Venon, Prampram</span>
               </div>
               <div className="flex items-center text-yellow-400">
                 <Star className="w-4 h-4 fill-current" />

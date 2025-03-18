@@ -15,7 +15,7 @@ export default function Events() {
         <div className="grid md:grid-cols-2 gap-8">
           <div className="bg-white rounded-lg shadow-lg overflow-hidden">
             <img 
-              src="https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+              src="https://3news.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-09-at-09.00.20-3.jpeg"
               alt="Homowo Festival"
               className="w-full h-64 object-cover"
             />
@@ -23,7 +23,7 @@ export default function Events() {
               <h2 className="text-2xl font-bold mb-4">Homowo Festival</h2>
               <div className="flex items-center text-gray-600 mb-2">
                 <Calendar className="w-5 h-5 mr-2" />
-                <span>August 2024</span>
+                <span>August 2025</span>
               </div>
               <div className="flex items-center text-gray-600 mb-4">
                 <MapPin className="w-5 h-5 mr-2" />
@@ -40,22 +40,22 @@ export default function Events() {
 
           <div className="bg-white rounded-lg shadow-lg overflow-hidden">
             <img 
-              src="https://images.unsplash.com/photo-1603228254119-e6a4d095dc59?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+              src="https://www.myjoyonline.com/wp-content/uploads/2023/05/Prampram-Kpledo-festival1-1024x682.jpeg"
               alt="Prampram Cultural Festival"
               className="w-full h-64 object-cover"
             />
             <div className="p-6">
-              <h2 className="text-2xl font-bold mb-4">Prampram Cultural Festival</h2>
+              <h2 className="text-2xl font-bold mb-4">Kpledo Festival</h2>
               <div className="flex items-center text-gray-600 mb-2">
                 <Calendar className="w-5 h-5 mr-2" />
-                <span>December 2024</span>
+                <span>April / May 2025</span>
               </div>
               <div className="flex items-center text-gray-600 mb-4">
                 <MapPin className="w-5 h-5 mr-2" />
-                <span>Prampram Beach</span>
+                <span>Prampram Town Center</span>
               </div>
               <p className="text-gray-600 mb-4">
-                Join the annual cultural festival celebrating Prampram's heritage with traditional performances, art exhibitions, and local cuisine.
+                Prampram Kpledo refers to the Lalue Kpledomi festival, a cultural event in the Prampram community in Ghana, where the people of Prampram celebrate their heritage and strive for economic growth and prosperity.
               </p>
               <button className="bg-blue-900 text-white px-6 py-2 rounded-full hover:bg-blue-800">
                 Learn More
