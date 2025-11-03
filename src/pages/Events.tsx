@@ -14,7 +14,7 @@ export default function Events() {
         <div className="grid md:grid-cols-2 gap-8">
           <div className="bg-white rounded-lg shadow-lg overflow-hidden">
             <img 
-              src="https://3news.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-09-at-09.00.20-3.jpeg"
+              src="https://i.ytimg.com/vi/644Nacas8NM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDhJDOggi6tKQ1EXMjKDRqbo_X9zQ"
               alt="Homowo Festival"
               className="w-full h-64 object-cover"
             />

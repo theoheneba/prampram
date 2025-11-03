@@ -18,7 +18,7 @@ export default function Home() {
         <div 
           className="absolute inset-0 bg-cover bg-center"
           style={{
-            backgroundImage: 'url("https://assets.gviworld.com/cdn-cgi/image/gravity=0.5x0.5,format=auto,quality=100/https://cdn.gvi.co.uk/wp-content/uploads/2022/11/222311054-2022-nov-23-09-25-33-000000-puerto-morelos-2022-11-11-21-46-44-utc.jpg")',
+            backgroundImage: 'url("https://scontent.facc1-1.fna.fbcdn.net/v/t39.30808-6/482239915_639438628893180_1198634713614791088_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGRW-tThDkTUbwVdhUHGET-BPlAk_WeJFgE-UCT9Z4kWJPwdOLwiNwme4AxXMWM0h7GhnTVy6km8rQNrEeZRsJf&_nc_ohc=Zz_857O6XVgQ7kNvwGl6jMC&_nc_oc=AdkBaL9cCe824PpKgM258On2LSgQZiWhxTzD23Zh9MczsHGhAIY2-IOh961Ooji1IOM&_nc_zt=23&_nc_ht=scontent.facc1-1.fna&_nc_gid=XMpGxvolKrvINJlUg34BOA&oh=00_Afihhn0LVrOlYwbUsuylFnJxjBttXelPGe-nnbgBqc5v4Q&oe=690EB790")',
           }}
         >
           <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-transparent"></div>
@@ -126,14 +126,14 @@ export default function Home() {
                 <motion.img 
                   whileHover={{ scale: 1.05 }}
                   transition={{ type: "spring", stiffness: 300, damping: 10 }}
-                  src="https://accessagric.com/wp-content/uploads/2022/04/Ghana-fishermen-with-long-014.webp"
+                  src="https://scontent.facc1-1.fna.fbcdn.net/v/t39.30808-6/482239915_639438628893180_1198634713614791088_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGRW-tThDkTUbwVdhUHGET-BPlAk_WeJFgE-UCT9Z4kWJPwdOLwiNwme4AxXMWM0h7GhnTVy6km8rQNrEeZRsJf&_nc_ohc=Zz_857O6XVgQ7kNvwGl6jMC&_nc_oc=AdkBaL9cCe824PpKgM258On2LSgQZiWhxTzD23Zh9MczsHGhAIY2-IOh961Ooji1IOM&_nc_zt=23&_nc_ht=scontent.facc1-1.fna&_nc_gid=XMpGxvolKrvINJlUg34BOA&oh=00_Afihhn0LVrOlYwbUsuylFnJxjBttXelPGe-nnbgBqc5v4Q&oe=690EB790"
                   alt="Traditional Fishing Boats in Prampram"
                   className="rounded-lg shadow-lg"
                 />
                 <motion.img 
                   whileHover={{ scale: 1.05 }}
                   transition={{ type: "spring", stiffness: 300, damping: 10 }}
-                  src="https://images.unsplash.com/photo-1580060839134-75a5edca2e99?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+                  src="https://www.easytrackghana.com/images/photos2/og/fishing-boats-2.jpg"
                   alt="Local Culture in Prampram Ghana"
                   className="rounded-lg shadow-lg mt-8"
                 />

@@ -14,7 +14,7 @@ export default function ThingsToDo() {
         <div className="grid md:grid-cols-3 gap-8">
           <div className="bg-white rounded-lg shadow-lg overflow-hidden">
             <img 
-              src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/377826121.jpg?k=9490f000051a38914f7eb68c1459fbb177fe0903dde0570d722cf784a8e374df&o=&hp=1"
+              src="https://media-cdn.tripadvisor.com/media/photo-s/08/54/4d/8f/legacy-tribe-beach-resort.jpg"
               alt="Beach Activities"
               className="w-full h-48 object-cover"
             />
@@ -39,7 +39,7 @@ export default function ThingsToDo() {
 
           <div className="bg-white rounded-lg shadow-lg overflow-hidden">
             <img 
-              src="https://visitghana.com/wp-content/uploads/2019/09/Jerry-Johnson-Ancestral-Wall-580x350.jpg"
+              src="https://i.ytimg.com/vi/D3qKhY8jBfM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA49pV3Fj67olWkYLsPdkRQXyhmbg"
               alt="African Ancestral Wall"
               className="w-full h-48 object-cover"
             />

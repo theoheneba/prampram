@@ -89,7 +89,7 @@ export default function Restaurants() {
 
           <div className="bg-white rounded-lg shadow-lg overflow-hidden">
             <img 
-              src="https://lh3.googleusercontent.com/p/AF1QipP7EeJrhBnx0iFxKmS8GYl7sylMifwqAuJyg85z=s1360-w1360-h1020"
+              src="https://scontent.facc6-1.fna.fbcdn.net/v/t39.30808-6/470214859_594741253061464_8465604276357887466_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEpOYAnWDZcmET43fyjwx6ON4nW5pz15Is3idbmnPXkize6_JXBU2QtNM-HV3_AxuueDSAvnLyW8EOwnAwEvN-E&_nc_ohc=wZCxPhbllK8Q7kNvwEC6wx5&_nc_oc=AdkYFI8be4AZMQ5SWlN7zJeOH9swuQHzW5kS5Q7uGFLSef2GWDnUSoa9kVkoP2O9m9M&_nc_zt=23&_nc_ht=scontent.facc6-1.fna&_nc_gid=fxkUROF4fFTBDBY4JcEsew&oh=00_AfgYzvCi-9Jl_fYLA5STWX_iMrqBOYFDFSpKC1cWPix-UA&oe=690E87EA"
               alt="Bite Moguls Eatery"
               className="w-full h-48 object-cover"
             />
