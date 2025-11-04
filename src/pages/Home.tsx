@@ -399,12 +399,12 @@ export default function Home() {
             >
               <div className="flex items-center mb-4">
                 <img 
-                  src="https://randomuser.me/api/portraits/women/32.jpg" 
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2hD5YiMvCvpG8wgH4UzWvMNKFT2VP-qquDg&s" 
                   alt="Testimonial" 
                   className="w-12 h-12 rounded-full mr-4"
                 />
                 <div>
-                  <h4 className="font-bold">Sarah Johnson</h4>
+                  <h4 className="font-bold">Emma Koomson</h4>
                   <p className="text-gray-600 text-sm">United Kingdom</p>
                 </div>
               </div>
@@ -424,7 +424,7 @@ export default function Home() {
             >
               <div className="flex items-center mb-4">
                 <img 
-                  src="https://randomuser.me/api/portraits/men/45.jpg" 
+                  src="https://img.freepik.com/free-photo/close-up-upset-american-black-person_23-2148749582.jpg?semt=ais_hybrid&w=740&q=80" 
                   alt="Testimonial" 
                   className="w-12 h-12 rounded-full mr-4"
                 />
@@ -449,12 +449,12 @@ export default function Home() {
             >
               <div className="flex items-center mb-4">
                 <img 
-                  src="https://randomuser.me/api/portraits/women/68.jpg" 
+                  src="https://www.heritagefund.org.uk/sites/default/files/styles/main_image_desktop/public/media/imgs/Chantelle%20Lindsay%20outdoors%20main%20image.gif.webp?itok=fR0gLUbV" 
                   alt="Testimonial" 
                   className="w-12 h-12 rounded-full mr-4"
                 />
                 <div>
-                  <h4 className="font-bold">Lisa Chen</h4>
+                  <h4 className="font-bold">Lisa Qarcoo</h4>
                   <p className="text-gray-600 text-sm">United States</p>
                 </div>
               </div>
